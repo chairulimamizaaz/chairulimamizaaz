@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**chairulimamizaaz/chairulimamizaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Chairul Imam I'zaaz
 
-Here are some ideas to get you started:
+👋 Hello! I'm Chairul Imam I'zaaz, a data enthusiast with a passion for exploring and analyzing data to derive valuable insights. Currently pursuing my studies in System Informatics at Telkom University, I'm dedicated to continuously learning and growing in the field of data analytics, engineering, visualization, machine learning, object detection, and image processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+
+- 🎓 **Education**: Studying System Informatics at Telkom University.
+- 💼 **Professional Experience**: Aspiring Data Analyst with a keen interest in leveraging data-driven solutions.
+- 🌱 **Skills**: Proficient in data analysis, engineering, visualization, machine learning, object detection, and image processing.
+- 🔍 **Interests**: I enjoy exploring diverse datasets, building predictive models, and creating insightful visualizations.
+- 📚 **Learning Journey**: Committed to expanding my knowledge and skills in data science and related fields through continuous learning and practical projects.
+- 🚀 **Future Goals**: Aspire to contribute to innovative projects and make a positive impact through data-driven insights and solutions.
+
+### Connect with Me:
+
+- 🌐 **LinkedIn**: [Chairul Imam I'zaaz](https://www.linkedin.com/in/chairul-imam-izaaz-a1177221a/)
+- 📧 **Email**: izaazadjie@gmail.com
+
+Let's connect and collaborate on exciting data projects! Feel free to reach out to me for any inquiries or opportunities.
